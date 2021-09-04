@@ -1,2 +1,2 @@
-server:
-  port: jjyy
+config:
+  info: dev____version=1
